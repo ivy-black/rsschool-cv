@@ -1,1 +1,20 @@
+body {
+  max-width: 1024px;
+}
 
+.container {
+  display: block;
+  margin: auto;
+  padding: 15px;
+
+  font-size: 22px;
+  font-family: fantasy;
+
+  border: 9px double;
+  border-radius: 9px;
+  border-color: rgba(76, 0, 130, 0.473);
+}
+
+img {
+  width: 20%;
+}
